@@ -1,0 +1,8 @@
+wandb
+transformers
+datasets
+jupyterlab
+python-dotenv
+openai
+google-generativeai
+tiktoken
